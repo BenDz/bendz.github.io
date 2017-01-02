@@ -35,3 +35,6 @@ function calculateAge(a, b, c) {
     a - 1 == todayMonth && todayDay < b && age--,
     age
 }
+
+var ATTag = new ATInternet.Tracker.Tag();
+ATTag.page.send({name: 'Resume'});
