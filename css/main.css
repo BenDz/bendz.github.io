@@ -328,6 +328,10 @@ a:hover .contact-item .icon .fa-linkedin {
     color: #0077b5;
 }
 
+a:hover .contact-item .icon .fa-github {
+    color: #000;
+}
+
 
 /*******************************************
 SKILLS
